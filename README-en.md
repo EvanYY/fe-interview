@@ -15,22 +15,22 @@
     Think hard - do more - summarize - insist
 </p>
 
-> :star: This is a free and open source project involving the front-end knowledge database * * the most (2500 +), the most complete * *, and the largest number of participants!
+> :star: This is a free and open source project involving the front-end knowledge database * * the most (3000 +), the most complete * *, and the largest number of participants!
 
 :hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
-| :bulb: Base | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [Skill 500+](category/skill.md) |  | | | 
+| :bulb: Base | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [Skill 700+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: Special | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
+| :newspaper: Special | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
 | :hammer: Tool | [webpack 13+](tools/webpack.md) | 
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.22) —— 463 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，当页面滚动一定高时，导航始终固定在顶部，反之恢复原位](https://github.com/haizlin/fe-interview/issues/2675)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用css实现两端对齐text-align: justify有什么不足之处？](https://github.com/haizlin/fe-interview/issues/2676)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [前端下载文件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2677)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [前端代码你是如何做抽象的？](https://github.com/haizlin/fe-interview/issues/2678)  
+## :clock430: Today's Knowledge Points (2021.07.07) —— 813 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作一个晶莹剔透的水晶球布局](https://github.com/haizlin/fe-interview/issues/4171)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制企业人员管理树形组织架构图特效](https://github.com/haizlin/fe-interview/issues/4172)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用`typeof test === "object"`来判定test是否是对象有什么缺陷？如何避免？](https://github.com/haizlin/fe-interview/issues/4173)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对图片位深的理解](https://github.com/haizlin/fe-interview/issues/4174)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 462 days (2020.07.21)  
-    	 :one: [html] [HTML5如何监听video的全屏和退出全屏？](https://github.com/haizlin/fe-interview/issues/2671)  
-	 :two: [css] [如何设置字体之间的间隙？](https://github.com/haizlin/fe-interview/issues/2672)  
-	 :three: [js] [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](https://github.com/haizlin/fe-interview/issues/2673)  
-	 :four: [skill] [你喜欢用svn还是git？为什么？](https://github.com/haizlin/fe-interview/issues/2674)  
+- 812 days (2021.07.06)  
+    	 :one: [html] [使用HTML5写一个打地鼠的小游戏](https://github.com/haizlin/fe-interview/issues/4167)  
+	 :two: [css] [使用CSS3实现的湖面上日出动画特效](https://github.com/haizlin/fe-interview/issues/4168)  
+	 :three: [js] [编号为1到100的一百个人围成一圈，以123123的方式进行报数，数到3的人自动退出圈子，剩下的人继续报数，问最后剩下的人编号为几？](https://github.com/haizlin/fe-interview/issues/4169)  
+	 :four: [skill] [你觉得做编程这行需要高智商吗？为什么？](https://github.com/haizlin/fe-interview/issues/4170)  
  
 	
 - **[All](category/history.md)**

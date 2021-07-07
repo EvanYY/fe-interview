@@ -15,22 +15,22 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（2500+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（4000+）、最全**，参与人数最多的免费开源项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [软技能 500+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [软技能 700+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
+| :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.22) —— 第463天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，当页面滚动一定高时，导航始终固定在顶部，反之恢复原位](https://github.com/haizlin/fe-interview/issues/2675)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用css实现两端对齐text-align: justify有什么不足之处？](https://github.com/haizlin/fe-interview/issues/2676)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [前端下载文件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2677)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [前端代码你是如何做抽象的？](https://github.com/haizlin/fe-interview/issues/2678)  
+## :clock430: 今天的知识点   (2021.07.07) —— 第813天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作一个晶莹剔透的水晶球布局](https://github.com/haizlin/fe-interview/issues/4171)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制企业人员管理树形组织架构图特效](https://github.com/haizlin/fe-interview/issues/4172)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用`typeof test === "object"`来判定test是否是对象有什么缺陷？如何避免？](https://github.com/haizlin/fe-interview/issues/4173)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对图片位深的理解](https://github.com/haizlin/fe-interview/issues/4174)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第462天 (2020.07.21)  
-    	 :one: [html] [HTML5如何监听video的全屏和退出全屏？](https://github.com/haizlin/fe-interview/issues/2671)  
-	 :two: [css] [如何设置字体之间的间隙？](https://github.com/haizlin/fe-interview/issues/2672)  
-	 :three: [js] [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](https://github.com/haizlin/fe-interview/issues/2673)  
-	 :four: [软技能] [你喜欢用svn还是git？为什么？](https://github.com/haizlin/fe-interview/issues/2674)  
+- 第812天 (2021.07.06)  
+    	 :one: [html] [使用HTML5写一个打地鼠的小游戏](https://github.com/haizlin/fe-interview/issues/4167)  
+	 :two: [css] [使用CSS3实现的湖面上日出动画特效](https://github.com/haizlin/fe-interview/issues/4168)  
+	 :three: [js] [编号为1到100的一百个人围成一圈，以123123的方式进行报数，数到3的人自动退出圈子，剩下的人继续报数，问最后剩下的人编号为几？](https://github.com/haizlin/fe-interview/issues/4169)  
+	 :four: [软技能] [你觉得做编程这行需要高智商吗？为什么？](https://github.com/haizlin/fe-interview/issues/4170)  
  
 	
 - **[查看全部](category/history.md)**
