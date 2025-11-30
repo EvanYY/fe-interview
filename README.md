@@ -1,3 +1,17 @@
+## :smiley:【推荐】一个专业的羽毛球比赛系统【点点赛】
+> 喜欢打**羽毛球**的，或者身边有喜欢打**羽毛球**的朋友，可以推荐给他们使用
+
+<div align="center">
+    <p align="center">
+        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
+    </p>
+    <p align="center">
+        (使用微信扫一扫体验，即将开源)
+    </p>
+</div>
+
+---
+
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -15,22 +29,19 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（2500+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（6000+）、最全**，参与人数最多的免费开源公益项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [软技能 500+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 1200+](category/html.md) | [CSS 1200+](category/css.md) | [JS 1200+](category/js.md) | [软技能 1200+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
+| :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.22) —— 第463天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，当页面滚动一定高时，导航始终固定在顶部，反之恢复原位](https://github.com/haizlin/fe-interview/issues/2675)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用css实现两端对齐text-align: justify有什么不足之处？](https://github.com/haizlin/fe-interview/issues/2676)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [前端下载文件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2677)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [前端代码你是如何做抽象的？](https://github.com/haizlin/fe-interview/issues/2678)  
+## :clock430: 今天的知识点   (2025.10.27) —— 第2386天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [什么是TC39委员会？它在JavaScript标准制定中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6357)  
  
   
 ### :camel: 历史题目
@@ -42,11 +53,8 @@
     …………  
 
 
-- 第462天 (2020.07.21)  
-    	 :one: [html] [HTML5如何监听video的全屏和退出全屏？](https://github.com/haizlin/fe-interview/issues/2671)  
-	 :two: [css] [如何设置字体之间的间隙？](https://github.com/haizlin/fe-interview/issues/2672)  
-	 :three: [js] [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](https://github.com/haizlin/fe-interview/issues/2673)  
-	 :four: [软技能] [你喜欢用svn还是git？为什么？](https://github.com/haizlin/fe-interview/issues/2674)  
+- 第2385天 (2025.10.26)  
+    	 :one: [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)  
  
 	
 - **[查看全部](category/history.md)**
